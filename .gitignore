@@ -1,0 +1,9 @@
+.DS_Store
+.venv/
+.venv.*/
+.pytest_cache/
+__pycache__/
+*.pyc
+data/chroma/
+data/uploads/
+*.log
